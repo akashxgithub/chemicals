@@ -1,0 +1,16 @@
+.material-symbols-outlined {
+  font-variation-settings: "FILL" 0, "wght" 400, "GRAD" 0, "opsz" 24;
+}
+
+.table th,
+.table td {
+  border: 1px solid #dee2e6; 
+}
+.icons {
+  color: rgba(15, 127, 168, 0.879);
+  cursor: pointer;
+}
+.head {
+  display: flex;
+  justify-content: space-between;
+}
